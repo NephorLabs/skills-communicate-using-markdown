@@ -19,6 +19,8 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
   Define terms and link to docs.github.com.
 -->
 
+## Step 1: The previuos step that you just completed
+
 ## Step 2: Add an image
 
 _Great job adding headers to the file :sparkles:_
